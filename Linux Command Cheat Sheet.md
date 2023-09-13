@@ -1,5 +1,9 @@
-# Linux Commands Cheat Sheet by [Rahul G](https://github.com/Rahulgj3)
 
+<div style="display: flex; align-items: center;">
+  <img src="https://img.icons8.com/color/96/000000/linux.png" alt="Linux Logo" width="96" height="96" style="margin-right: 15px;">
+  <h1>Linux Commands Cheat Sheet by <a href="https://github.com/Rahulgj3">Rahul G</a></h1>
+</div>
+<br>
 A collection of commonly used Linux commands to enhance your productivity.
 
 ### Basics
@@ -107,3 +111,4 @@ A collection of commonly used Linux commands to enhance your productivity.
   
 ****
 > Note: For more detailed information about each command, including available options, syntax, and usage examples, consult the respective manual pages using the `man` command. For example, to view the manual page for a command, you can type `man command_name` in your terminal.
+---
